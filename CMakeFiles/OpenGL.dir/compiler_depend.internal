@@ -182,8 +182,7 @@ CMakeFiles/OpenGL.dir/main.cpp.o
  /usr/include/c++/11/bits/ostream.tcc
  /usr/include/c++/11/istream
  /usr/include/c++/11/bits/istream.tcc
- /usr/include/GLFW/glfw3.h
- /usr/include/GL/gl.h
- /usr/include/GL/glext.h
+ /home/fabio/Desktop/OpenGL/include/glad/glad.h
  /usr/include/KHR/khrplatform.h
+ /usr/include/GLFW/glfw3.h
 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/fabio/Desktop/OpenGL/build",
+  "command": "/usr/bin/c++  -I/home/fabio/Desktop/OpenGL/build -I/home/fabio/Desktop/OpenGL -g -o CMakeFiles/OpenGL.dir/main.cpp.o -c /home/fabio/Desktop/OpenGL/main.cpp",
+  "file": "/home/fabio/Desktop/OpenGL/main.cpp"
+},
+{
+  "directory": "/home/fabio/Desktop/OpenGL/build",
+  "command": "/usr/bin/cc  -I/home/fabio/Desktop/OpenGL/build -I/home/fabio/Desktop/OpenGL -g -o CMakeFiles/OpenGL.dir/src/glad.c.o -c /home/fabio/Desktop/OpenGL/src/glad.c",
+  "file": "/home/fabio/Desktop/OpenGL/src/glad.c"
+}
+]

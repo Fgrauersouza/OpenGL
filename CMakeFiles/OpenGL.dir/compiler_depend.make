@@ -181,10 +181,9 @@ CMakeFiles/OpenGL.dir/main.cpp.o: main.cpp \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  /usr/include/GLFW/glfw3.h \
-  /usr/include/GL/gl.h \
-  /usr/include/GL/glext.h \
-  /usr/include/KHR/khrplatform.h
+  include/glad/glad.h \
+  /usr/include/KHR/khrplatform.h \
+  /usr/include/GLFW/glfw3.h
 
 
 /usr/include/KHR/khrplatform.h:
@@ -311,7 +310,7 @@ CMakeFiles/OpenGL.dir/main.cpp.o: main.cpp \
 
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
 
-/usr/include/GL/glext.h:
+include/glad/glad.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
@@ -378,8 +377,6 @@ CMakeFiles/OpenGL.dir/main.cpp.o: main.cpp \
 /usr/include/c++/11/ext/numeric_traits.h:
 
 /usr/include/c++/11/ext/type_traits.h:
-
-/usr/include/GL/gl.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
 

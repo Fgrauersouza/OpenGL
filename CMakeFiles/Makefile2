@@ -81,12 +81,12 @@ clean: CMakeFiles/OpenGL.dir/clean
 CMakeFiles/OpenGL.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL.dir/build.make CMakeFiles/OpenGL.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL.dir/build.make CMakeFiles/OpenGL.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/fabio/Desktop/OpenGL/CMakeFiles --progress-num=1,2 "Built target OpenGL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/fabio/Desktop/OpenGL/CMakeFiles --progress-num=1,2,3 "Built target OpenGL"
 .PHONY : CMakeFiles/OpenGL.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/OpenGL.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/fabio/Desktop/OpenGL/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/fabio/Desktop/OpenGL/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/OpenGL.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/fabio/Desktop/OpenGL/CMakeFiles 0
 .PHONY : CMakeFiles/OpenGL.dir/rule
