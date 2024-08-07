@@ -25,13 +25,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 4,
+				"line" : 5,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 6,
+				"line" : 9,
 				"parent" : 0
 			}
 		]
@@ -99,6 +99,14 @@
 			{
 				"backtrace" : 2,
 				"fragment" : "-lglfw",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libOpenGL.so",
 				"role" : "libraries"
 			}
 		],
